@@ -1,0 +1,130 @@
+#controleAlimento
+{
+    position:absolute;
+    width: 100%;
+    height: 2.8em;
+    background-color: rgb(173,183,158);
+    border:2px solid black;
+    padding: 20px 5px;
+    font-family: sans-serif;
+    font-style: italic ;
+    font-weight: bolder;
+    font-size: 0.8em;
+    top:50px;
+}
+
+#menu2
+{
+    position: relative;
+    float: right;
+    bottom: 4px;
+    padding-right: 30px;
+    font-size: 150%;  
+}
+
+#caloria
+{
+    position:relative; 
+    text-align: center;
+    top: 150px;
+    font-family: sans-serif;
+    font-style: italic ;
+    font-weight: bolder;
+    font-size: small
+}
+
+#caloriaTotal
+{
+    position:relative; 
+    text-align: center;
+    width: 100%;
+    height: 70px;
+    border: 2px solid black;
+    padding-top: 15px;
+    font-family: sans-serif;
+    font-style: italic ;
+    font-weight: bolder;
+    font-size: xx-large
+}
+
+#threeDots2
+{
+    position: absolute;
+    clear: left;
+    top: 310px;
+    left: 10px;
+    font-size: 150%;
+}
+
+#refeicao1
+{
+    position: absolute;
+    clear: left;
+    width: 100%;
+    height: 70px;
+    top: 400px;
+    padding: 20px;
+    background-color: white;
+    border-bottom: 4px solid rgb(190, 188, 189);
+    font-family: sans-serif;
+    font-style: italic ;
+    font-weight: bolder;
+    font-size: 0.8em;
+}
+
+#refeicao2
+{
+    position: absolute;
+    clear: left;
+    width: 100%;
+    height: 70px;
+    top: 470px;
+    padding: 20px;
+    background-color: white;
+    border-bottom: 4px solid rgb(190, 188, 189);
+    font-family: sans-serif;
+    font-style: italic ;
+    font-weight: bolder;
+    font-size: 0.8em;
+}
+
+#refeicao3
+{
+    position: absolute;
+    clear: left;
+    width: 100%;
+    height: 70px;
+    top: 540px;
+    padding: 20px;
+    background-color: white;
+    border-bottom: 4px solid rgb(190, 188, 189);
+    font-family: sans-serif;
+    font-style: italic ;
+    font-weight: bolder;
+    font-size: 0.8em;
+}
+
+#refeicao4
+{
+    position: absolute;
+    clear: left;
+    width: 100%;
+    height: 70px;
+    top: 610px;
+    padding: 20px;
+    background-color: white;
+    border-bottom: 4px solid rgb(190, 188, 189);
+    font-family: sans-serif;
+    font-style: italic ;
+    font-weight: bolder;
+    font-size: 0.8em;
+}
+
+#home2
+{
+    position: relative;
+    top: 600px;
+    text-align: center;
+    font-size: 400%;
+    bottom: 20px;
+}
